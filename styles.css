@@ -1,0 +1,7 @@
+*       {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;} /*applies to all elements*/
+body    {background-color: chocolate;} /*body text*/
+h3      {color: darkblue;} /*header 3*/
+ul      {color: blueviolet; background-color: green;} /*unordered list*/
+ol      {color: mintcream; background-color: black;} /*ordered list*/
+th      {color: chartreuse; background-color: black;} /*table header*/
+td      {color: chartreuse; background-color: black;} /*table row*/
